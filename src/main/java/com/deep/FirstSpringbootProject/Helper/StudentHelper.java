@@ -1,5 +1,5 @@
 package com.deep.FirstSpringbootProject.Helper;
-//Student Helper Class
+//Student Helper Class to help
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
